@@ -74,7 +74,10 @@ Camera Module → Raspberry Pi → OpenCV Eye Detection → Servo Motor Control 
 
 ## Contributors
 
-Monika D A and Team
+Monika D A 
+Nirmala A R
+Parinitha P
+Preethi H R
 
 ## License
 
