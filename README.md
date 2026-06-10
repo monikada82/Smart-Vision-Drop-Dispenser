@@ -64,6 +64,9 @@ Camera Module → Raspberry Pi → OpenCV Eye Detection → Servo Motor Control 
 * Published at an IEEE Conference (2025).
 * Secured KSCST funding for project development and implementation.
 
+## Publication
+This project was presented and published at the Third IEEE International Conference on Knowledge Engineering and Communication Systems (ICKECS 2025) held at SJC Institute of Technology on 28–29 April 2025. 
+
 ## Future Enhancements
 
 * AI-based eye tracking and alignment
